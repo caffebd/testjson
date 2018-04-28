@@ -1,6 +1,9 @@
 {
   "sensors": [
-{"votes1": [32, 22, 27, 44], "votes2": ["empty"]}
+    {
+      "light": 3,
+      "sound": 8
+    }
   ],
   "profile": {
     "name": "caffebd"
