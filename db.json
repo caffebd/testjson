@@ -1,0 +1,11 @@
+{
+  "sensors": [
+    {
+      "light": 3,
+      "sound": 8
+    }
+  ],
+  "profile": {
+    "name": "caffebd"
+  }
+}
