@@ -1,7 +1,7 @@
 {
   "sensors": [
     {
-      "light": [7,"medium"],
+      "light": [7,"low"],
       "sound": [12,"high"]
     }
   ],
