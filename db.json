@@ -2,7 +2,8 @@
   "sensors": [
     {
       "light": [7,"medium"],
-      "sound": [12,"high"]
+      "sound": [12,"high"],
+      "isSleeping": "yes"
     }
   ],
   "profile": {
