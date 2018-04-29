@@ -1,8 +1,8 @@
 {
   "sensors": [
     {
-      "light": 7,
-      "sound": 12
+      "light": [7,"medium"],
+      "sound": [12,"high"]
     }
   ],
   "profile": {
